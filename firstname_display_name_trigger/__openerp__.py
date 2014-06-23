@@ -33,7 +33,7 @@ Adapt the computation of display name so that it gets visible in tree and kanban
  """,
  'website': 'http://www.camptocamp.com',
  'data': [],
- 'installable': True,
+ 'installable': False,
  'images': [],
  'auto_install': True,
  'license': 'AGPL-3',

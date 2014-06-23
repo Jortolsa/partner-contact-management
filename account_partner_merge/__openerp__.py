@@ -28,7 +28,7 @@
  'depends' : ['account_report_company', 'base_partner_merge'],
  'data': ['account_partner_merge_view.xml'],
  'test': [],
- 'installable': True,
+ 'installable': False,
  'auto_install': True,
  'application': False,
  }

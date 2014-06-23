@@ -11,5 +11,5 @@
         'security/ir.model.access.csv',
         'base_partner_merge_view.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

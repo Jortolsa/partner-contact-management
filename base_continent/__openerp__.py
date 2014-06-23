@@ -38,5 +38,5 @@ adds continent field on partner form
      'base_continent_data.xml',
      'security/ir.model.access.csv'],
  'active': False,
- 'installable': True,
+ 'installable': False,
 }
